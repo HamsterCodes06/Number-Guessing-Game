@@ -23,7 +23,7 @@ If their guess is greater or lower than the random number the program prints out
   1. Download and save the Guess_The_Number.cpp file from this repo to your computer
   2. Open the file in a terminal or your preferred code editor
   3. Compile the code:
-       - g++ Guess_The_Number.cpp -o guessing_game
+       - `g++ Guess_The_Number.cpp -o guessing_game`
   4. Run the program:
-       - macOS: ./guessing_game
-       - Windows: guessing_game.exe
+       - `macOS: ./guessing_game`
+       - `Windows: guessing_game.exe`
