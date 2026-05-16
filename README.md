@@ -7,7 +7,7 @@ If their guess is greater or lower than the random number the program prints out
 ### Languages and Libraries Used
   - C++ 11 or newer
   - Libraries
-    - "<iostream>", "<stdlib.h>", "<cstdlib>", "<ctime>"
+    - '<iostream>', '<stdlib.h>', '<cstdlib>', '<ctime>'
 
 ### Features
   - Random number generation (1 - 100)
